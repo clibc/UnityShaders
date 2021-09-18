@@ -1,2 +1,2 @@
 # Phong Shader demo
-![https://i.ibb.co/vsy0nZH/Whats-App-Image-2021-09-18-at-7-24-37-PM.jpg]
+![](https://i.ibb.co/vsy0nZH/Whats-App-Image-2021-09-18-at-7-24-37-PM.jpg)
