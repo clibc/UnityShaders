@@ -1,4 +1,4 @@
-Shader "Custom/CartoonWater"
+Shader "Custom/Water_modified"
 {
     Properties
     {
@@ -9,8 +9,10 @@ Shader "Custom/CartoonWater"
     }
     SubShader
     {
-        Tags { "RenderType"="Opaque" }
+        Tags { "RenderType"="Transparent" }
         LOD 100
+        ZWrite Off
+        Blend SrcAlpha OneMinusSrcAlpha
 
         Pass
         {
